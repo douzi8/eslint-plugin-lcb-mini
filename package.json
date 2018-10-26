@@ -1,0 +1,25 @@
+{
+  "devDependencies": {
+    "eslint": "^5.7.0"
+  },
+  "name": "eslint-plugin-lcb-mini",
+  "description": "乐车邦小程序js校验规则",
+  "version": "1.0.4",
+  "main": "index.js",
+  "devDependencies": {
+    "eslint": "^5.7.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/douzi8/eslint-plugin-lcb-mini.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/douzi8/eslint-plugin-lcb-mini/issues"
+  },
+  "homepage": "https://github.com/douzi8/eslint-plugin-lcb-mini#readme"
+}
